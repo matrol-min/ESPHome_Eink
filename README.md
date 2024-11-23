@@ -3,7 +3,7 @@
 
 (Korean Ver.)
 
-<center><img src="images/dashboard.jpeg" height="600"></center>
+<p align ="center"><img src="images/dashboard.jpeg" height="600"></p>
 
 
 
@@ -110,9 +110,9 @@ ESP32 보드가 WiFi 를 통해 ESPHome 에 연결되면 Home Assistant로부터
 - 현재 날씨와 온도/강수확률
 - 4일간의 향후 일정 : 구글 캘린더와 연동
 
-<center><img src="images/dashboard_demo.gif" height="600"> 
+<p align ="center"><img src="images/dashboard_demo.gif" height="600">
 
-데모 구동 화면</center>
+<div align ="center">데모 구동 화면</div>
 
 ---
 ### 4단계: 케이스 제작
@@ -125,7 +125,7 @@ ESP32 보드가 WiFi 를 통해 ESPHome 에 연결되면 Home Assistant로부터
 [3D 프린팅 대행 : 메이드올](https://madeall3d.com/page)  
 최종적으로는 버튼 부분에 간섭이 있어서 버튼은 제거하였습니다.  
 
-<center><img src="images/dashboard_2.jpeg" height="600"></center>  
+<p align ="center"><img src="images/dashboard_2.jpeg" height="600"></p>   
 
 &nbsp;
 ---
@@ -141,7 +141,7 @@ ESP32 보드가 WiFi 를 통해 ESPHome 에 연결되면 Home Assistant로부터
 
 (English Ver.)
 
-<center><img src="images/dashboard.jpeg" height="600"></center>
+<p align ="center"><img src="images/dashboard.jpeg" height="600"></p>
 
 ## Project Introduction
 
@@ -241,9 +241,9 @@ The display is configured to show the following information:
 - Current weather and temperature/precipitation probability
 - Upcoming schedule for 4 days: Synced with Google Calendar
 
-<center><img src="images/dashboard_demo.gif" height="600"> 
+<p align ="center"><img src="images/dashboard_demo.gif" height="600"> <p>
 
-Demo Screen</center>
+<div align ="center">Demo Screen</div>
 
 ---
 
@@ -257,7 +257,7 @@ The case was printed by a 3D printing service (Material: PETG, Method: PLA).
 [3D Printing Service: MadeAll](https://madeall3d.com/page)  
 Final adjustments were made to remove the buttons due to interference.
 
-<center><img src="images/dashboard_2.jpeg" height="600"></center>  
+<p align ="center"><img src="images/dashboard_2.jpeg" height="600"></p> 
 
 &nbsp;
 ---
